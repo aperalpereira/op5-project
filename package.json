@@ -1,0 +1,23 @@
+{
+  "name": "op5-project",
+  "version": "1.0.0",
+  "description": "Intro to testing for OP5",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aperalpereira/op5-project.git"
+  },
+  "author": "Antonio Peral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aperalpereira/op5-project/issues"
+  },
+  "homepage": "https://github.com/aperalpereira/op5-project#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  }
+}
